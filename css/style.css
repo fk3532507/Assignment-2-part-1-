@@ -1,0 +1,36 @@
+.header{
+background-color: rebeccapurple;
+height: 100px;
+text-align: center;
+}
+.nav{
+    background-color: rgb(0, 230, 160);
+    height: 400px;
+    width: 22%;
+    float: left;
+    margin-right: 27px;
+    text-align: center;
+}
+.article{
+    background-color: sienna;
+    height: 400px;
+    width: 52%;
+    float: left;
+    text-align: center;
+}
+.ads{
+    background-color: orange;
+    height: 400px;
+    width: 22%;
+    float: right;
+    text-align: center;
+}
+.content{
+margin-top: 40px;
+overflow: hidden;
+}
+footer{
+    background-color: red;
+    height: 100px;
+    text-align: center;
+}
